@@ -14,7 +14,10 @@ namespace Ejercicio_1
             Console.WriteLine("Ingrese nombre :");
             //esto es un scanner
             string nombre = Console.ReadLine();
-            Console.WriteLine("Su nombre es " + nombre);
+            //Console.WriteLine("Su nombre es " + nombre);
+            Console.WriteLine("Ingrese la edad :");
+            string edad = Console.ReadLine();
+            Console.WriteLine("Su nombre es {0} y la edad es {1}", nombre, edad);
             Console.ReadKey();
         }
     }
