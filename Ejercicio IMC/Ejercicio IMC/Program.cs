@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_IMC
 {
-    public class Program
+    public partial class Program
     {
         static void Main(string[] args)
         {
