@@ -37,7 +37,7 @@ namespace AdminPersonasModel.DAL
              return filtrada;*/
 
             //OPCION 2//           
-            List<Persona> filtrada = new List<Persona>();
+           /* List<Persona> filtrada = new List<Persona>();
 
             foreach (Persona p in personas) 
             {
@@ -46,7 +46,10 @@ namespace AdminPersonasModel.DAL
                     filtrada.Add(p);
                 }
             }
-            return filtrada;
+            return filtrada;*/
+
+            return personas.FindAll(p => p.Nombre == nombre && p.Estatura > 2);
+
 
         }
 
