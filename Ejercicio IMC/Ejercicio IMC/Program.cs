@@ -1,4 +1,4 @@
-﻿using Ejercicio_IMC.DTO;
+﻿using Ejercicio_IMC;
 using System;
 using System.Collections.Generic;
 using System.Linq;
