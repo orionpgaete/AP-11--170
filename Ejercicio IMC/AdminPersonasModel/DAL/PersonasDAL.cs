@@ -25,8 +25,18 @@ namespace AdminPersonasModel.DAL
 
         public List<Persona> FiltrarPersonas(string nombre)
         {
+            List<Persona> filtrada = new List<Persona>();
+            for (int i = 0; i < personas.Count(); i++)
+            {
+                if (personas[i].Nombre == nombre)
+                {
+                    filtrada.Add(personas[i]);
+                }
+            }
+            return filtrada;
 
         }
+
 
 
 
