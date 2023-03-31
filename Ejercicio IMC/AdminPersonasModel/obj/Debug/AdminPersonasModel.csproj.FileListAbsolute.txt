@@ -1,2 +1,6 @@
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\AdminPersonasModel\obj\Debug\AdminPersonasModel.csproj.AssemblyReference.cache
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\AdminPersonasModel\obj\Debug\AdminPersonasModel.csproj.CoreCompileInputs.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\AdminPersonasModel\bin\Debug\AdminPersonasModel.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\AdminPersonasModel\bin\Debug\AdminPersonasModel.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\AdminPersonasModel\obj\Debug\AdminPersonasModel.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\AdminPersonasModel\obj\Debug\AdminPersonasModel.pdb

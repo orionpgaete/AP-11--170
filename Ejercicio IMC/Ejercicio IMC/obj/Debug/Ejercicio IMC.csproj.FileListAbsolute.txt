@@ -6,3 +6,6 @@ D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejer
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\Ejercicio IMC\obj\Debug\Ejercicio IMC.csproj.CoreCompileInputs.cache
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\Ejercicio IMC\obj\Debug\Ejercicio IMC.exe
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\Ejercicio IMC\obj\Debug\Ejercicio IMC.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\Ejercicio IMC\bin\Debug\AdminPersonasModel.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\Ejercicio IMC\bin\Debug\AdminPersonasModel.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Ejercicio IMC\Ejercicio IMC\obj\Debug\Ejercicio IMC.csproj.CopyComplete

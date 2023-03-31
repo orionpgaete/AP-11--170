@@ -78,13 +78,14 @@ namespace Ejercicio_IMC
                                         Telefono = telefono,
                                         Peso = peso
                                       };
+            p.calcularImc();
             personasDAL.AgregarPersona(p);
                    
             Console.WriteLine("Nombre : {0} ", p.Nombre);
             Console.WriteLine("Telefono : {0} ", p.Telefono);
             Console.WriteLine("Peso : {0} ", p.Peso);
             Console.WriteLine("Estatura : {0} ", p.Estatura);
-            Console.WriteLine("Su IMC : {0} ", peso / (estatura * estatura));
+            Console.WriteLine("Su IMC : {0} ", p.IMC.Texto);
             Console.ReadKey();
 
         }
