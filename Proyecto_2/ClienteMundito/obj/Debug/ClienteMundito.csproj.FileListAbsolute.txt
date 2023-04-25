@@ -1,0 +1,8 @@
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\bin\Debug\ClienteMundito.exe.config
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\bin\Debug\ClienteMundito.exe
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\bin\Debug\ClienteMundito.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\obj\Debug\ClienteMundito.csproj.AssemblyReference.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\obj\Debug\ClienteMundito.csproj.SuggestedBindingRedirects.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\obj\Debug\ClienteMundito.csproj.CoreCompileInputs.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\obj\Debug\ClienteMundito.exe
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Proyecto_2\ClienteMundito\obj\Debug\ClienteMundito.pdb

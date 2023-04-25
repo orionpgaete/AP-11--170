@@ -36,7 +36,7 @@ namespace ClienteMundito.Comunicacion
                 this.reader = new StreamReader(stream);
                 this.writer = new StreamWriter(stream);
                 return true;
-            }catch (Exception ex)
+            }catch (SocketException ex)
             {
                 return false;
             }

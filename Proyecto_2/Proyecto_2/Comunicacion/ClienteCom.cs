@@ -58,4 +58,3 @@ namespace Proyecto_2.Comunicacion
     }
 }
 
-Pedro <CR><LF>
