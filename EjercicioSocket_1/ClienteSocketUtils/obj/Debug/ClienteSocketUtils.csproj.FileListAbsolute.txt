@@ -1,0 +1,6 @@
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.AssemblyReference.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.CoreCompileInputs.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.pdb

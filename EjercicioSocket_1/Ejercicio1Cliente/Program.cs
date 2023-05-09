@@ -47,7 +47,7 @@ namespace Ejercicio1Cliente
                 } else
                 {
                     mensaje = clienteSocket.Leer();
-                    if (mensaje = != null)
+                    if (mensaje != null)
                     {
                         Console.WriteLine("Cli: {0}", mensaje);
                         if (mensaje.ToLower() == "chao")

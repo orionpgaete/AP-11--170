@@ -1,0 +1,11 @@
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csproj.AssemblyReference.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csproj.SuggestedBindingRedirects.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csproj.CoreCompileInputs.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.exe.config
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.exe
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\bin\Debug\ClienteSocketUtils.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\bin\Debug\ClienteSocketUtils.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csproj.CopyComplete
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.exe
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\EjercicioSocket_1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.pdb
