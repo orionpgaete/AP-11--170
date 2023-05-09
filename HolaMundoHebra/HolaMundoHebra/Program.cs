@@ -15,15 +15,23 @@ namespace HolaMundoHebra
             Thread.Sleep(i * 1000);
             Console.WriteLine("Hola desde {0}", i);
         }
+
+        static void ejecutarconParametro(object o)
+        {
+            int i = (int)o;
+            Thread.Sleep(i * 1000);
+            Console.WriteLine("Hola Hebra parametro {0}", i);
+        }
         static void Main(string[] args)
 
         {
             Console.WriteLine("Iniciando Hebra");
             for (int i = 1; i < 7; i++)
             {
-                Thread t = new Thread(new ThreadStart(ejecutar));
+                // Thread t = new Thread(new ThreadStart(ejecutar));
+                Thread t = new Thread(new ParameterizedThreadStart(ejecutarconParametro));
                 t.Name = i.ToString();
-                t.Start();
+                t.Start(i);
             }
             Console.WriteLine("iniciada");
 
