@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HolaMundoHebra.Hebra_Clase;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,9 +30,14 @@ namespace HolaMundoHebra
             for (int i = 1; i < 7; i++)
             {
                 // Thread t = new Thread(new ThreadStart(ejecutar));
-                Thread t = new Thread(new ParameterizedThreadStart(ejecutarconParametro));
-                t.Name = i.ToString();
-                t.Start(i);
+                //Thread t = new Thread(new ParameterizedThreadStart(ejecutarconParametro));
+                // t.Name = i.ToString();
+                //t.Start(i);
+
+                Hebra he = new Hebra(i);
+                Thread t = new Thread(new ThreadStart(he.ejecutar));
+                t.Start();
+
             }
             Console.WriteLine("iniciada");
 
