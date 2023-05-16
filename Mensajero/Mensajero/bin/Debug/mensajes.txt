@@ -1,0 +1,2 @@
+pedro;hola desde consola;Aplicacion
+pedro;hola desde hercules;TCP

@@ -1,0 +1,6 @@
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Mensajero\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Mensajero\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Mensajero\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.AssemblyReference.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Mensajero\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.CoreCompileInputs.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Mensajero\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Mensajero\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb
