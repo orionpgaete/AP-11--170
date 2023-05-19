@@ -1,2 +1,7 @@
 pedro;hola desde consola;Aplicacion
 pedro;hola desde hercules;TCP
+pablo;hola hola;TCP
+pepe;ertttttt;Aplicacion
+andrea;fdsggsd;TCP
+rodrigo;dfsdfsd;TCP
+joaquin;joaquin;TCP
