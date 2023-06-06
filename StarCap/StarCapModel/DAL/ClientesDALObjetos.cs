@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace StarCapModel.DAL
 {
-    internal class ClientesDALObjetos
+    public class ClientesDALObjetos : IClientesDAL
     {
+        private static List<Cliente> clientes = new List<Cliente>();
+        public void Agregar(Cliente cliente)
+        {
+            clientes.Add(cliente);
+        }
+
+        public List<Cliente> Obtener()
+        {
+            return clientes;
+        }
     }
 }

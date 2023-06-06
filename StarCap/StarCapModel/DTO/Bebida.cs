@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StarCapModel.DTO
+namespace StarCapModel
 {
-    internal class Bebida
+    public class Bebida
     {
+        private string codigo;
+        private string nombre;
+
+        public string Codigo { get => codigo; set => codigo = value; }
+        public string Nombre { get => nombre; set => nombre = value; }
     }
 }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace StarCapModel.DAL
 {
-    internal interface IClientesDAL
+    public interface IClientesDAL
     {
+        List<Cliente> Obtener();
+        void Agregar(Cliente cliente);
     }
 }

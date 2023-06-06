@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarCap", "StarCap\StarCap.csproj", "{ABA5049B-422B-4E2F-B034-321A7EBAB487}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarCapModel", "StarCapModel\StarCapModel.csproj", "{84B55645-3AF1-4C9C-BA9B-AC08A8A74676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ABA5049B-422B-4E2F-B034-321A7EBAB487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABA5049B-422B-4E2F-B034-321A7EBAB487}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABA5049B-422B-4E2F-B034-321A7EBAB487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B55645-3AF1-4C9C-BA9B-AC08A8A74676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B55645-3AF1-4C9C-BA9B-AC08A8A74676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B55645-3AF1-4C9C-BA9B-AC08A8A74676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B55645-3AF1-4C9C-BA9B-AC08A8A74676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
