@@ -15,6 +15,15 @@ namespace StarCap
     {
 
         /// <summary>
+        /// Control mensajesLbl.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label mensajesLbl;
+
+        /// <summary>
         /// Control nombretxt.
         /// </summary>
         /// <remarks>
@@ -48,6 +57,15 @@ namespace StarCap
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList nivelRbl;
+        protected global::System.Web.UI.WebControls.RadioButtonList nivelRbl;
+
+        /// <summary>
+        /// Control agregarBtn.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button agregarBtn;
     }
 }

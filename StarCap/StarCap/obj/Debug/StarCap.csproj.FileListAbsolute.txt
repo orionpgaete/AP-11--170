@@ -57,3 +57,5 @@ D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\Star
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCap\obj\Debug\StarCap.csproj.CopyComplete
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCap\obj\Debug\StarCap.dll
 D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCap\obj\Debug\StarCap.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCap\bin\StarCapModel.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCap\bin\StarCapModel.pdb

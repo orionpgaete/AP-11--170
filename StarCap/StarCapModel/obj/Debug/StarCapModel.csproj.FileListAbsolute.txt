@@ -1,0 +1,6 @@
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCapModel\bin\Debug\StarCapModel.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCapModel\bin\Debug\StarCapModel.pdb
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCapModel\obj\Debug\StarCapModel.csproj.AssemblyReference.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCapModel\obj\Debug\StarCapModel.csproj.CoreCompileInputs.cache
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCapModel\obj\Debug\StarCapModel.dll
+D:\1. Clases INACAP\2. Clases\2.19 Programacion Avanzada C#\2023\AP-11--170\StarCap\StarCapModel\obj\Debug\StarCapModel.pdb
