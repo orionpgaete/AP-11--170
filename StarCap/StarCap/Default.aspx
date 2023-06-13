@@ -16,11 +16,12 @@
                     </div>
                     <div class="form-group">
                         <label for="rutTxt">Rut</label>
-                        <asp:TextBox ID="ruttxt" CssClass="form-control" runat="server"></asp:TextBox>
+                        <asp:TextBox ID="ruttxt" CssClass="form-control" runat="server" ></asp:TextBox>
                     </div>
                     <div class="form-group">
                         <label for="bebidaDbl">Bebida Favorita</label>                        
-      <!--<select>-->  <asp:DropDownList runat="server" ID="bebidaDbl" CssClass="form-select">
+      <!--<select>-->  <asp:DropDownList runat="server" ID="bebidaDbl" CssClass="form-select" AppendDataBoundItems="true">
+                            <asp:ListItem Text="Seleccione una opcion"></asp:ListItem>
 
                         </asp:DropDownList>
                     </div>
