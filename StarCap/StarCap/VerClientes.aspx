@@ -7,7 +7,15 @@
                     <h3>Ver Clientes</h3>
                 </div>
                 <div class="card-body">
-                    <h3>Esta pagina es para VER</h3>
+                    <asp:GridView CssClass="table table-hover table-bordered" runat="server" 
+                         AutoGenerateColumns="false" ID="grillaCliente">
+                        <Columns>
+                            <asp:BoundField DataField="Rut" HeaderText="Rut del Cliente" />
+                            <asp:BoundField DataField="Nombre" HeaderText="Nombre del Cliente" />
+                            <asp:BoundField DataField="NivelTxt" HeaderText="Nivel Cliente"/>
+                            <asp:BoundField DataField="BebidaFavorita.Nombre" HeaderText="Favorita" />
+                        </Columns>
+                    </asp:GridView>
                 </div>
             </div>
         </div>

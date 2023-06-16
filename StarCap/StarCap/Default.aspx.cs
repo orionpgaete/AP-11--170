@@ -43,11 +43,10 @@ namespace StarCap
 
             int nivel = Convert.ToInt32(this.nivelRbl.SelectedItem.Value);
             //2.1 Construir el obejeto Bebida
-            Bebida bebida = new Bebida()
-            {
-                Codigo = bebidaValor,
-                Nombre = bebidaTexto
-            };
+
+            List<Bebida> bebidas = bebidaDAL.ObtenerBebidas();
+            Bebida bebida = bebidas.Find(b => b.Codigo == this.bebidaDbl.SelectedItem.Value);
+
             //2.2  Construir el objeto de tipo cliente
 
             Cliente cliente = new Cliente()
@@ -61,6 +60,7 @@ namespace StarCap
             clienteDAL.Agregar(cliente);
             //4. Mostrar mensaje de exito
             this.mensajesLbl.Text = "Cliente Guardado correctamente";
+            Response.Redirect("VerClientes.aspx");
         }
     }
 }
