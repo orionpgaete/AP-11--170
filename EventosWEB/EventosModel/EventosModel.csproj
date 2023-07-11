@@ -56,8 +56,10 @@
     <Compile Include="Asistente.cs">
       <DependentUpon>EventosDBModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="DAL\AsistentesDALDB.cs" />
     <Compile Include="DAL\IAsistentesDAL.cs" />
     <Compile Include="DAL\IRegionesDAL.cs" />
+    <Compile Include="DAL\RegionesDALDB.cs" />
     <Compile Include="EventosDBModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
