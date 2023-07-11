@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace EventosModel.DAL
 {
-    internal class RegionesDALDB
+    public class RegionesDALDB : IRegionesDAL
     {
+        private EventosDBEntities eventosDB = new EventosDBEntities();
+        public List<Region> ObtenerRegiones()
+        {
+            return this.eventosDB.Regions.ToList();
+        }
     }
 }
